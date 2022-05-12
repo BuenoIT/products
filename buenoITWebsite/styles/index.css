@@ -1,0 +1,33 @@
+#MainTopics {
+  display: flex;
+  justify-content: center;
+}
+
+.WhiteSpace {
+  background-color: white;
+  color: white;
+  margin: 10px;
+}
+
+main img {
+  width: 120px;
+  height: 160px;
+  border: 1px solid #4767c6a9;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 10px;
+}
+
+main figcaption {
+  color: white;
+  background-color: #4767c6a9;
+  margin: 10px;
+}
+main p {
+  width: 80%;
+}
+
+.MainText {
+  display: flex;
+  justify-content: center;
+}

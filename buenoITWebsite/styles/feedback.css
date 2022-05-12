@@ -1,0 +1,53 @@
+fieldset {
+  color: #4767C6;
+    background-color: rgba(45, 217, 203, 0.273);
+    border-width: 5px;
+    border-color: #47B5C6;
+}
+
+#name {
+  width: 300px;
+}
+
+#email {
+  width: 300px;
+}
+
+
+textarea {
+  vertical-align: middle;
+  padding: 5px;
+}
+
+#button {
+  display: flex;
+  justify-content: center;
+}
+
+
+#submit {
+  margin-right: 10px ;
+  height: 50px;
+  width: 200px;
+  background-color: rgba(45, 217, 203, 0.273);
+  border-width: 5px;
+  border-color: #47B5C6;
+  color: #4767C6;
+  font-weight: bold;
+  
+}
+
+#clear  {
+  height: 50px;
+  width: 200px;
+  background-color: rgba(45, 217, 203, 0.273);
+  border-width: 5px;
+  border-color: #47B5C6;
+  color: #4767C6;
+  font-weight: bold;
+}
+
+
+h1 {
+  color: #4767C6;
+}

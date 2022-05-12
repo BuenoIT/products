@@ -1,0 +1,85 @@
+.IconImage {
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
+}
+
+#MainTopics {
+  display: flex;
+  justify-content: center;
+}
+
+.WhiteSpace {
+  background-color: white;
+  color: white;
+  margin: 10px;
+}
+
+main img {
+  width: 100px;
+  height: 120px;
+  padding: 20px;
+  margin: 10px;
+}
+
+#JS {
+  border: 1px solid #d4b81be7;
+  border-radius: 5px;
+}
+
+#Csharp {
+  border: 1px solid #770cbee7;
+  border-radius: 5px;
+}
+
+#ReactJS {
+  border: 1px solid #2192dde7;
+  border-radius: 5px;
+}
+
+#Bootstrap {
+  border: 1px solid #413ed8e7;
+  border-radius: 5px;
+}
+
+main figcaption {
+  margin: 10px;
+}
+
+#JSfig {
+  color: white;
+  background-color: #d4b81be7;
+}
+
+#Csharpfig {
+  color: white;
+  background-color: #770cbee7;
+}
+
+#ReactJSfig {
+  color: white;
+  background-color: #2192dde7;
+}
+
+#Bootstrapfig {
+  color: white;
+  background-color: #413ed8e7;
+}
+
+
+main p {
+  width: 80%;
+}
+
+.MainText {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  color: #4767C6;
+}
+
+main {
+  background-color: #4767c611;
+}

@@ -1,0 +1,62 @@
+
+h1 {
+  color: #4767C6;
+}
+
+main table {
+   margin: 0 auto;
+   border-collapse: collapse;
+   border-style: dotted;
+   border-color: #4767C6;
+   border-width: 2px;
+   background-color: white;
+ }
+
+ thead {
+  background-color: rgba(45, 217, 203, 0.273);
+  color: #4767C6;
+ }
+
+tr th{
+   padding: 15px;
+   border: 1px solid #47B5C6;
+ }
+
+ tr td {
+   padding: 15px;
+   text-align: left;
+   border: 1px solid #47B5C6;
+ }
+
+#CVSLogo {
+   width: 200px;
+   height: 70px ;
+ }
+
+ #ABInbevLogo {
+  width: 210px;
+  height: 80px ;
+}
+  
+#CartersLogo {
+  width: 230px;
+  height: 70px;
+}
+
+#DockLogo {
+  width: 200px;
+}
+
+.Logos {
+  text-align: center;
+}
+
+.labels tr td {
+	background-color: #2cc16a69;
+	font-weight: bold;
+	color: rgba(68, 92, 189, 0.749);
+}
+
+main {
+  background-color: #4767c615;
+}

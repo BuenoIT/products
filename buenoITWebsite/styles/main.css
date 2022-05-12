@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:500');
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body,
+html {
+  font-family: "Oswald", sans-serif;
+}
+
+html {
+  background-image: url(../images/BackgroundImage.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+}
+
+#Body {
+  background-color: rgba(255, 255, 255, 0.978);
+  width: 80%;
+  height: auto;
+  border: 2.5px solid #4767C6;
+  border-radius: 6px;
+  margin: 10px auto 10px auto;
+}
+
+#Header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border: 1px solid #4767c659;
+  overflow: hidden;
+
+}
+
+#Logo img {
+  align-items: center;
+  width: 350px; 
+  height: 130px;
+  margin: 15px;
+}
+
+#MenuOptions ul {
+  display: flex;
+  justify-content: center;
+  border: 1px solid #4767c659;
+}
+
+#MenuOptions li {
+  margin: 0px 5px;
+  list-style-type: none;
+  font-size: 25px;  
+  overflow: hidden;
+}
+
+#MenuOptions nav ul li a {
+  background-image: linear-gradient(
+    to right,
+    #47B5C6,
+    #47B5C6 50%,
+    #4767C6 50%
+  );
+  background-size: 200% 100%;
+  background-position: -100%;
+  display: inline-block;
+  position: relative;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 0.3s ease-in-out;
+}
+
+#MenuOptions nav ul li a:before {
+  content: '';
+  background: #54b3d6;
+  display: block;
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 0;
+  height: 3px;
+  transition: all 0.3s ease-in-out;
+}
+
+#MenuOptions nav ul li a:hover {
+  background-position: 0;
+ }
+
+ #MenuOptions nav ul li a:hover::before {
+  width: 100%;
+}
+
+#MenuOptions nav ul li ul {
+  display: none;
+  position: absolute;
+  background-color: #fff;
+}
+
+
+#MenuOptions nav ul li:hover ul {
+  display: block;
+}
+
+
+#MenuOptions nav ul li ul li{
+  width: 150px;
+  border-radius: 0px 0px 4px 4px;
+}
+
+#MenuOptions nav ul li ul li a{
+  font-size: 20px;
+  padding: 5px 8px;
+  margin: 0;
+}
+
+
+#LeftMenu li, a {
+  list-style-type: none;
+  text-decoration: none;
+  color: #4767C6;
+  margin: 20px 5px;
+}
+
+#LeftMenu a:hover {
+  border-bottom: 2px solid #47B5C6;
+}
+
+#LeftMenuNav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.IconImage {
+  width: 20px;
+  height: 20px;
+  margin: 0 5px;
+}
+
+.WhiteSpace {
+  background-color: white;
+  color: white;
+  margin: 10px;
+}
+
+#Main {
+  display: flex;
+  
+}
+
+aside {
+  width: 300px;
+  margin: 20px;
+}
+
+main {
+  flex-grow: 10;
+  text-align: center;
+  width: 100%;
+  overflow: hidden;
+}
+
+
+footer {
+  background-color: #5c6a954f;
+  text-align: center;
+  font-size: 25px;
+}
+footer p {
+  font-size: 15px;
+}
+footer a {
+  width: 25px;
+}
+
+footer div address {
+  font-size: 10px;
+}
