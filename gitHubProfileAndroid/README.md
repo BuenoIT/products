@@ -8,14 +8,15 @@ This project aims to display my GitHub profile in an Android application. 🎯
 
 ### 🔨 Build on
 
-React Native
-CSS
-Java
+1. React-native
+2. CSS
+3. Java
 
 ### 🔍 Additionals
 
-Emulator: Android Studio
-Optional: Chocolatery (commands)
+1. Emulator: Android Studio
+2. Optional: Chocolatery (commands)
+
 
 ### 📋 Screenshots / Preview
 
