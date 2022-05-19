@@ -6,11 +6,15 @@ This project aims to display my GitHub profile in an Android application. 🎯
 
 2022/05/18 created by Guilherme Bueno
 
-### 🔨 Build on
+### 🔨 Built on
 
 1. React-native
 2. CSS
 3. Java
+
+### 📃 Description
+
+The program displays the BuenoIT profile image, name, nickname, profile description, and button to access the GitHub profile link.  If the user clicks on the button "Open in GitHub," it will direct him to the GitHub website inside the profile BuenoIT page.
 
 ### 🔍 Additionals
 
