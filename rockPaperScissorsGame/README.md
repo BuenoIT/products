@@ -35,4 +35,4 @@ Low - The basics of JavaScript, HTML and CSS.
 
 ### 🎁 Expressions of gratitude
 
-Thank you, Conestoga College, especially Mr. Sukhbir Tatla for providing the classes to understand completely JavScript functionilities and demonstrate the procedures to apply the technology in this in class activity.
+Thank you, Conestoga College, especially Mr. Sukhbir Tatla for providing the classes to understand completely JavScript functionalities and demonstrate the procedures to apply the technology in this in class activity.
