@@ -1,0 +1,37 @@
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\inClass1GuilhermeBueno\obj\Debug\net6.0-windows\loanCalculator.csproj.AssemblyReference.cache
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.csproj.AssemblyReference.cache
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\bin\Debug\net6.0-windows\loanCalculator.exe
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\bin\Debug\net6.0-windows\loanCalculator.deps.json
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\bin\Debug\net6.0-windows\loanCalculator.runtimeconfig.json
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\bin\Debug\net6.0-windows\loanCalculator.dll
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\bin\Debug\net6.0-windows\loanCalculator.pdb
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.Form1.resources
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.Properties.Resources.resources
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.csproj.GenerateResource.cache
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.AssemblyInfoInputs.cache
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.AssemblyInfo.cs
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.dll
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\refint\loanCalculator.dll
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.pdb
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.genruntimeconfig.cache
+C:\Users\bueno\OneDrive\Área de Trabalho\inClass1GuilhermeBueno\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\ref\loanCalculator.dll
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\bin\Debug\net6.0-windows\loanCalculator.exe
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\bin\Debug\net6.0-windows\loanCalculator.deps.json
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\bin\Debug\net6.0-windows\loanCalculator.runtimeconfig.json
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\bin\Debug\net6.0-windows\loanCalculator.dll
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\bin\Debug\net6.0-windows\loanCalculator.pdb
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.csproj.AssemblyReference.cache
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.Form1.resources
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.Properties.Resources.resources
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.csproj.GenerateResource.cache
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.AssemblyInfoInputs.cache
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.AssemblyInfo.cs
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.dll
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\refint\loanCalculator.dll
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.pdb
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\loanCalculator.genruntimeconfig.cache
+C:\Users\bueno\workspace\projects\loanCalculator\loanCalculator\obj\Debug\net6.0-windows\ref\loanCalculator.dll
