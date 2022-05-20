@@ -27,6 +27,8 @@ Features:
 
 ### 📋 Screenshots / Preview
 
+![Captura de tela 2022-05-20 155837](https://user-images.githubusercontent.com/101655079/169602508-e6476956-e02e-4ce3-9c8c-e59e2e08bc42.jpg)
+
 ### 😰 Program complexity
 
 Low - The basics of JavaScript, HTML and CSS.
