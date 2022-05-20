@@ -1,4 +1,4 @@
-# Loan Calculator - CSharp and Forms
+# Rock-Paper-Schissor Game - Javascript, Html and Css
 
 This project aims to create a rock paper scissors game.
 
