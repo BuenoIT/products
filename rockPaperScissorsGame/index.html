@@ -1,0 +1,47 @@
+<!-- Program ID: In-Class-1 
+     Purpose: to reproduce a dynamic site referring to the Rock-Paper-Scissor game
+
+     Program revision:
+            2022 May 17th: Created by Guilherme Bueno
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>In-Class 1 for Guilherme</title>
+</head>
+<body>
+  <div id="container">
+    <div id="backGame">
+      <div id="instructions">
+        <h1>In-Class 1<br>Guilherme Bueno</h1>
+        <hr>
+        <h2>Instructions:</h2>
+        <p>
+          You have to choose one of these options each turn: <br><br>
+          The option 1 stands for rock, option 2 for scissors, and the option 3 for paper.<br><br>
+  
+          The computer will then select a random option.<br><br>
+  
+          A winner will be determined by comparing your choice to the computer's choice.<br><br>
+        </p>
+        <p><b>
+          Guidelines for Scoring:
+        </b></p>
+        <ul>
+          <li>The rock win over the scissors (because the rock smashes the scissors)</li>
+          <li>The scissors win over the paper (because the scissors cut the paper)</li>
+          <li>The paper win over the rock (because the paper covers the rock)</li>
+        </ul>  
+        <br>
+        <button id="startGameBtn" type="button" onclick="startGame()">Start Game</button>
+      </div>
+    </div>
+  </div> 
+  <script src="script.js"></script>
+</body>
+</html>

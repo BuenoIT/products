@@ -1,0 +1,38 @@
+* {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  background-image: url(imgs/background.jpg);
+  /*background.jpg from Original by Guilherme Medes Cunha Bueno (2022). background.png.*/
+}
+
+#container {
+  width: 950px;
+  height: auto;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#backGame {
+  width: 950px;
+  height: 630px;
+  background-color: rgb(204, 106, 15);
+  border-color: #FFF;
+  border-style: solid;
+}
+
+li {
+  list-style: none;
+}
+
+h3 {
+  margin-top: 130px;
+  font-size: 45px;
+}
+
+img {
+  width: 500px;
+  height: 300px;
+}
