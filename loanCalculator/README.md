@@ -7,7 +7,7 @@ This project aims to create a loan calculator by each user's choice. 🎯
 
 ### 💾 Program versions
 
-2022/05/19 created by Guilherme Bueno
+2022/05/19 created by Guilherme Bueno <br>
 2022/05/20 bug fixes by Guilherme Bueno (Calculation and user input validation)
 
 ### 🔨 Built on
@@ -30,6 +30,7 @@ Features:
 
 ### 📋 Screenshots / Preview
 
+![Captura de tela 2022-05-20 110044](https://user-images.githubusercontent.com/101655079/169559178-770f6aa8-86b2-437a-8f6c-8ebcd130a48d.jpg)
 
 
 ### 😰 Program complexity
