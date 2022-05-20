@@ -16,6 +16,6 @@
 10. [User Registration for Websites](https://github.com/BuenoIT/products/tree/master/websiteUserRegistration) - WIP
 11. [Registration Program](https://github.com/BuenoIT/products/tree/master/RegisterProgram) - WIP
 12. [Git Hub Profile Android](https://github.com/BuenoIT/products/tree/master/gitHubProfileAndroid) - ✅
-13. [Loan Calculator)(https://github.com/BuenoIT/products/tree/master/loanCalculator)- ✅
+13. [Loan Calculator](https://github.com/BuenoIT/products/tree/master/loanCalculator)- ✅
 
 Portfolio created on March 15th 2022
