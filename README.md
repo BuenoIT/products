@@ -1,6 +1,6 @@
 # IT project developments
 
-## Since I am a computer programming student, one of my goals is to demonstrate my ability to solve problems by creating exciting projects based on different technology and solutions.
+## Since I am a computer programming student, one of my goals is to demonstrate my ability to solve problems by creating exciting projects based on differents technologies and solutions.
 
 ### The list of projects can be found below:
 
