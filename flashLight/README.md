@@ -26,12 +26,13 @@ Features:
 3. Hook useState to capture the change between on and off mode.
 4. Hook useEffect to apply libraries shake and torch.
 5. Listener RNShake to capture the mobile shaking.
+6. Apk created to install in any mobile phone (android).
 
 
 ### 📋 Screenshots / Preview
 
-![WhatsApp Image 2022-05-22 at 10 57 17 PM](https://user-images.githubusercontent.com/101655079/169736453-561d2003-09df-4a1b-9f7f-9040b2da56fe.jpeg)
-![WhatsApp Image 2022-05-22 at 10 56 58 PM](https://user-images.githubusercontent.com/101655079/169736456-0ef001e5-8b8e-4a42-b348-7d1a53f529df.jpeg)
+![WhatsApp Image 2022-05-22 at 10 57 17 PM](https://user-images.githubusercontent.com/101655079/169736564-aee00cbc-ef70-4e10-bcc1-8c003f52deff.jpeg)
+![WhatsApp Image 2022-05-22 at 10 56 58 PM](https://user-images.githubusercontent.com/101655079/169736580-40d5f1ec-95ff-4d69-89a9-bf7869f3bce4.jpeg)
 
 
 ### 😰 Program complexity
