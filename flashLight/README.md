@@ -41,4 +41,4 @@ Low - The basics of react-native and javascript.
 
 ### 🎁 Expressions of gratitude
 
-Thank you, DIO (Digital Innovation One), especially Ismael Moreira for providing the guides to understand react-native and demonstrate the procedures to apply the technology in this fantastic project. <br> https://www.dio.me/
+Thank you, DIO (Digital Innovation One), especially Ismael Moreira for providing the directions on how to use the technology in this amazing project and demonstrating how to use react-native. <br> https://www.dio.me/
