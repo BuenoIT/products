@@ -30,6 +30,8 @@ Features:
 
 ### 📋 Screenshots / Preview
 
+![WhatsApp Image 2022-05-22 at 10 57 17 PM](https://user-images.githubusercontent.com/101655079/169736453-561d2003-09df-4a1b-9f7f-9040b2da56fe.jpeg)
+![WhatsApp Image 2022-05-22 at 10 56 58 PM](https://user-images.githubusercontent.com/101655079/169736456-0ef001e5-8b8e-4a42-b348-7d1a53f529df.jpeg)
 
 
 ### 😰 Program complexity
