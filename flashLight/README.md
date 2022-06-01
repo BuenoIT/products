@@ -26,10 +26,13 @@ Features:
 3. Hook useState to capture the change between on and off mode.
 4. Hook useEffect to apply libraries shake and torch.
 5. Listener RNShake to capture the mobile shaking.
+6. Apk created to install in any mobile phone (android).
 
 
 ### 📋 Screenshots / Preview
 
+![WhatsApp Image 2022-05-22 at 10 57 17 PM](https://user-images.githubusercontent.com/101655079/169736564-aee00cbc-ef70-4e10-bcc1-8c003f52deff.jpeg)
+![WhatsApp Image 2022-05-22 at 10 56 58 PM](https://user-images.githubusercontent.com/101655079/169736580-40d5f1ec-95ff-4d69-89a9-bf7869f3bce4.jpeg)
 
 
 ### 😰 Program complexity
@@ -38,4 +41,4 @@ Low - The basics of react-native and javascript.
 
 ### 🎁 Expressions of gratitude
 
-Thank you, DIO (Digital Innovation One), especially Ismael Moreira for providing the guides to understand react-native and demonstrate the procedures to apply the technology in this fantastic project. <br> https://www.dio.me/
+Thank you, DIO (Digital Innovation One), especially Ismael Moreira for providing the directions on how to use the technology in this amazing project and demonstrating how to use react-native. <br> https://www.dio.me/

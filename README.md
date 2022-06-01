@@ -1,6 +1,6 @@
 # IT project developments
 
-## As a computer programming student, I want to demonstrate my problem-solving abilities by creating projects for educational, gaming, and retail businesses.
+## Since I am a computer programming student, one of my goals is to demonstrate my ability to solve problems by creating exciting projects based on differents technologies and solutions.
 
 ### The list of projects can be found below:
 
@@ -18,5 +18,6 @@
 12. [Git Hub Profile Android](https://github.com/BuenoIT/products/tree/master/gitHubProfileAndroid) - ✅
 13. [Loan Calculator](https://github.com/BuenoIT/products/tree/master/loanCalculator)- ✅
 14. [Rock Papers Scissors Game](https://github.com/BuenoIT/products/tree/master/rockPaperScissorsGame) - ✅
+15. [Flashlight App Android](https://github.com/BuenoIT/products/tree/master/flashLight) - ✅
 
 Portfolio created on March 15th 2022
