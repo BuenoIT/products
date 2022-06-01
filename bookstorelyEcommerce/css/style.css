@@ -1,0 +1,184 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header h1 {
+  float: left;
+  margin-left: 22px;
+  padding: 20px;
+  background-color: #baf77c;
+}
+
+header a {
+  cursor: pointer;
+}
+
+header #itens-on-cart {
+  float: right;
+  padding: 20px;
+  text-align: center;
+  
+}
+header img {
+  width: 40px;
+  padding: 0;
+  margin: 0;
+}
+
+header #itens-on-cart .cart-itens {
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #baf77c;
+}
+
+main .book-item--name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+main .book-item--description {
+  color: rgb(155, 155, 155);
+}
+
+
+main .book-item--img img {
+  width: 180px;
+  height: 240px;
+  padding: 10px;
+}
+
+
+/* To display side by side product itens to the main area*/
+.book-list {
+  clear: both;
+  padding: 20px;
+  display:grid;
+  grid-template-columns: repeat(4, 1fr);
+  
+}
+
+.book-list .book-itens {
+  margin: 5px;
+  text-align: center;
+  padding: 15px;
+  border:4px solid #baf77c;
+  background-color: #8ee69597;
+}
+
+.book-itens a {
+  text-decoration: none;
+}
+
+main .book-item--add {
+  width:50px;
+  height:50px;
+  line-height:50px;
+  border-radius:25px;
+  margin: auto;
+  margin-bottom: 15px;
+  background-color:#8dd743;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  color:#FFF;
+  font-size:22px;
+  transition:all ease .2s;
+}
+
+main .book-item--price {
+  font-size: 20px;
+}
+
+.checkout {
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.checkout-btn {
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+  background-color: white;
+  border-radius: 12px;
+  border: 2px solid #8dd743;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  padding: 15px 20px
+};
+
+
+#checkout-btn-link {
+  text-decoration: none;
+}
+
+.checkout a {
+  text-decoration: none;
+  color: gray;
+}
+
+.cart-greetings {
+  background-color: #61d4b0;
+  padding: 20px;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.cart-review table{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  border-collapse: collapse;
+  border: 2px solid #8dd743;
+}
+
+.cart-review table th {
+  padding: 15px;
+  background-color: #8dd743;
+}
+
+.cart-review table td {
+  padding: 15px;
+}
+
+.cart-total-summary {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
+
+.cart-btn-payment button{
+  transition-duration: 0.4s;
+  font-size: 15px;
+  font-weight: bold;
+  cursor: pointer;
+  text-align: center;
+  background-color: white;
+  border-radius: 12px;
+  border: 2px solid #8dd743;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  padding: 15px 20px
+}
+
+.receipt-container {
+  background-image: url(../assets/imgs/receiptbackground.webp);
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: 0.5px solid black;
+  padding: 5px;
+}
+
+.receipt-container table {
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.receipt-go-back {
+  text-align: center;
+}
+

@@ -1,0 +1,194 @@
+<!--
+  Program id: assignment1G
+  Program purpose: To create a dinamic ecommerce website using javascript, html and css. Assignment 1.
+
+  Program revision:
+      Guilherme Bueno, 2022-05-28: Created
+      Guilherme Bueno, 2022-05-29: Program Updates (Function to display cart and create receipt)
+      Guilherme Bueno, 2022-05-30: Bug fixes (Function issues)
+-->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Bookstorely</title>
+</head>
+<body>
+
+  <!-- Model used by javascript to create cards of itens (books) -->
+  <div class="book-product-model">
+    <div class="book-itens">
+      <div class="book-item--name"></div>
+      <div class="book-item--description"></div>
+      <div class="book-item--img"><img src="" alt=""/></div>
+      <a href="" class="add-btn">
+        <div class="book-item--add"></div>
+      </a>
+      <div class="book-item--price"></div>
+    </div>
+  </div>
+
+   <!-- Header divided by title and cart quantity information -->
+  <header id="header-anchor">
+    <h1>Enjoy Bookstorely your online book store by browsing our portfolio</h1>  
+    <div id="itens-on-cart">
+      <a href="#checkout-anchor" onclick="displayCart()"><img src="assets/imgs/carticon.png" alt="Cart Icon"></a>
+      <!-- carticon.png from Logos Online (2022). carticon.jpeg. -->
+      <div class="cart-itens">0</div>
+    </div>
+  </header>
+  <aside>
+
+  </aside>
+  <main> 
+    <!-- Books List Display in the screen for the user-->
+    <div class="book-list"></div>
+    <div class="checkout">
+      <a id="checkout-btn-link" href="#checkout-anchor"><button class="checkout-btn" type="button" onclick="displayCart()">Go to Cart</button></a>
+      <br>
+      <a href="#header-anchor">Go back</a>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+
+      <!-- When the go to cart button is clicked, the checkout information (cart) will appear -->
+      <div class="checkout">
+        <div class="cart-greetings" id="checkout-anchor"></div>
+        <div class="cart-review"></div>
+        <div class="cart-total-summary"></div>
+        <a href="#receipt-anchor"><div class="cart-btn-payment" onclick="printReceipt()"></div></a>
+        <br>
+        <div class="cart-link-back"></div>
+        
+      </div>
+      
+    </div>
+    <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+      <br>
+
+    <!--  The system displays receipt information (Payment) when the payment button is clicked.-->
+    <div class="receipt-summary">
+      <div class="receipt-container">
+        <div class="receipt-container-title"></div>
+        <div class="receipt-container-address"></div>
+        <div class="receipt-container-phone"></div>
+        <div class="receipt-container-cashier"></div>
+        <div class="receipt-container-customer-name"></div>
+        <div class="receipt-container-date"></div>
+        <div class="table-receipt"></div>
+        <div class="receipt-container-subtotal"></div>
+        <div class="receipt-container-tax"></div>
+        <div class="receipt-container-total"></div>
+      </div>
+      <div class="receipt-go-back"></div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+  </main>
+  <script src="books.js"></script>
+  <script src="script/script.js"></script>
+</body>
+</html>
