@@ -34,8 +34,9 @@ Features:
 2. Separated array to add products to the website following basic standards JSON - Book List Feature
 
 
-### 📋 Screenshots / Preview
+### 📋 Video / Preview
 
+https://user-images.githubusercontent.com/101655079/171466156-5e5df8fb-2bf7-4af5-b9e3-6311ccb37913.mp4
 
 
 ### 😰 Program complexity
